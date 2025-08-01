@@ -109,4 +109,4 @@ The model uses:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://github.com/vincentbmw/Sarcasme-Detection/blob/main/LICENSE).
