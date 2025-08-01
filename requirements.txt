@@ -1,0 +1,13 @@
+tensorflow
+tensorflow-hub
+tensorflow-text
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+nltk
+Sastrawi
+rapidfuzz
+tqdm
+kagglehub
