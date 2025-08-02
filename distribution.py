@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('dataset/preprocessed_data_final.csv')
+df = pd.read_csv('dataset/processed_dataset/preprocessed_data_final.csv')
 
 print('Original dataset:')
 print(f'Total samples: {len(df)}')

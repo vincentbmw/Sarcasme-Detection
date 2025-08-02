@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('dataset/cleaned_dataset.csv')
+df = pd.read_csv('dataset/processed_dataset/cleaned_dataset.csv')
 
 print("Class distribution:")
 print(df['label'].value_counts())
