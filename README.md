@@ -47,7 +47,7 @@ Sarcasm detection is a challenging natural language processing task that involve
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vincentbmw/Sarcasme-Detection.git
    cd sarcasm-detection
    ```
 
